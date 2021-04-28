@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/konwledge.iml" filepath="$PROJECT_DIR$/.idea/konwledge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/valid-aop-demo/valid-aop-demo.iml" filepath="$PROJECT_DIR$/valid-aop-demo/valid-aop-demo.iml" />
     </modules>
   </component>
 </project>
